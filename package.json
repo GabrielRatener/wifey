@@ -1,7 +1,7 @@
 {
   "name": "wifey",
-  "version": "2.0.5",
-  "description": "NodeJS tool to manage wifi",
+  "version": "2.0.6",
+  "description": "NodeJS tool to manage wifi that actually works!",
   "bin": {
     "wifi": "bin/wifi.js"
   },
