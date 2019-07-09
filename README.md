@@ -1,13 +1,13 @@
-# node-wifi
+# Wifey
 
-> :information_source: Version 3 will be released soon and will provide a [lot of changes](https://github.com/friedrith/node-wifi/projects/1). Don't worry, everything will be retrocompatible. However, please write a issue before proposing a pull request to integrate the fix
+> :information_source: Version 3 will be released soon and will provide a [lot of changes](https://github.com/gabrielratener/wifey/projects/1). Don't worry, everything will be retrocompatible. However, please write a issue before proposing a pull request to integrate the fix
 > directly in the version 2 release.
 
 **I am looking for maintainers who could help me to handle all improvements and bug fixes about this project because the hardware/os dependencies make it quite hard to test.**
 
-![node-wifi](https://raw.githubusercontent.com/friedrith/assets/master/node-wifi/logo.png)
+![wifey](https://raw.githubusercontent.com/gabrielratener/assets/master/wifey/logo.png)
 
-The node-wifi module allows mac, windows and linux users to interact with surrounding wifi networks through various methods.
+The Wifey module allows mac, windows and linux users to interact with surrounding wifi networks through various methods.
 
 These methods include scanning for wifi access points and connecting to these access points.
 
@@ -28,16 +28,16 @@ The module manages :
 
 ```javascript
 // Use as a module
-npm install node-wifi
+npm install wifey
 
 // Use as a CLI
-npm install node-wifi -g
+npm install wifey -g
 ```
 
 ## Getting started
 
 ```javascript
-var wifi = require("node-wifi");
+var wifi = require("wifey");
 
 // Initialize wifi module
 // Absolutely necessary even to set interface to null

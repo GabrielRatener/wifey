@@ -58,7 +58,7 @@ const optionDefinitions = [
       name: 'version',
       alias: 'v',
       type: Boolean,
-      description: 'Display the current version of node-wifi.'
+      description: 'Display the current version of Wifey.'
   }
 ];
 

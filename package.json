@@ -1,5 +1,5 @@
 {
-  "name": "node-wifi",
+  "name": "wifey",
   "version": "2.0.5",
   "description": "NodeJS tool to manage wifi",
   "bin": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/friedrith/node-wifi.git"
+    "url": "git://github.com/gabrielratener/wifey.git"
   },
   "keywords": [
     "wifi",
@@ -23,7 +23,7 @@
   "author": "Thibault Friedrich",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/friedrith/node-wifi/issues"
+    "url": "https://github.com/gabrielratener/wifey/issues"
   },
   "dependencies": {
     "command-line-args": "^3.0.1",
